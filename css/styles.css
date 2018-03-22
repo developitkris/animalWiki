@@ -1,0 +1,20 @@
+#contain {
+  text-align: center;
+}
+
+img{
+  width:350px;
+  height:400px;
+
+}
+#orca-text{
+  display: none;
+}
+
+#tarantula-text{
+  display: none;
+}
+
+#turtle-text {
+  display: none;
+}
